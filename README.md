@@ -12,3 +12,6 @@
 <img height ="20" src = "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> <img height ="20" src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"> 
 <img height ="20" src = "https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img height ="20" src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img height ="20" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
+## Projects:
+* ** [Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
