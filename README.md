@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BraulioHermanson
 - 👀 I’m interested in Data Science, Power BI, ETL tools, BIG DATA and learning new things.
 - 🌱 I’m currently learning Data Science and Spanish
-- 📫 How to reach me www.linkedin.com/in/braulio-campos-
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-)
+
 
 ## 😃:rocket:💻Technology, languages and tools:
 <img height ="20" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">  <img height ="20" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
@@ -14,4 +15,4 @@
 <img height ="20" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 
 ## Projects:
-* ** [Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
+* **[Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
