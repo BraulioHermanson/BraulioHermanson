@@ -19,4 +19,4 @@
 * **[Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
 
 ### PT/BR:
-* **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)**
+* **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
