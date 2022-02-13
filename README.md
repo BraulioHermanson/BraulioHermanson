@@ -18,6 +18,7 @@
 ### EN:
 * **[Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
 * **[Machine Learning Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
+* **[AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
 
 ### PT/BR:
 * **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
