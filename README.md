@@ -22,7 +22,8 @@
 * **[Using Python to get insights from twitter](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Using%20Python%20to%20get%20insights%20from%20twitter.ipynb)**
 
 ### PT/BR:
+* **[Rio de Janeiro - ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
 * **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
 * **[Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
 * **[K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
-* **[Rio de Janeiro - ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
+
