@@ -23,7 +23,7 @@
 
 ### PT/BR:
 * **[Rio de Janeiro - ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
-* **[Deploy_ML Rio de Janeiro](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Deploy_ML_Rio_aribnb.ipynb)**
+* **[Deploy Rio de Janeiro- ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Deploy_ML_Rio_aribnb.ipynb)**
 * **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
 * **[Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
 * **[K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
