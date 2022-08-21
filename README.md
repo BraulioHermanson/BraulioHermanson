@@ -31,3 +31,8 @@
 * **[Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
 * **[K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
 
+----------------------------------------------------------------------------------------------------------------------------
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=BraulioHermanson&show_icons=true)
+
+----------------------------------------------------------------------------------------------------------------------------
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BraulioHermanson&theme=blue-green)
