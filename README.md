@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @BraulioHermanson
 - 👀 I’m interested in Data Science, Power BI, ETL tools, BIG DATA and learning new things.
 - 🌱 I’m currently learning Data Science and Python
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-)
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-) ;
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@braucamps)](https://medium.com/@braucamps)
 
 
 ## 😃:rocket:💻Technology, languages and tools:
