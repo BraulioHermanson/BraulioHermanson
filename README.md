@@ -20,26 +20,27 @@
 ## Projects:
 ### EN:
 * **[NLP - Using Python to get insights from twitter](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Using%20Python%20to%20get%20insights%20from%20twitter.ipynb)**
-* **[Make your day easy using Pyauotgui to automatize your process during work.](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Automatizando%20tarefas.ipynb)**
-* **[Analyzing the stock market from Brazil using python](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Stocks%20Brazil.ipynb)**
-* **[Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
-* **[Machine Learning Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
-* **[AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
+* **[AUT - Make your day easy using Pyauotgui to automatize your process during work.](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Automatizando%20tarefas.ipynb)**
+* **[ANL - Analyzing the stock market from Brazil using python](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Stocks%20Brazil.ipynb)**
+* **[ANL - Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
+* **[ML - Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
+* **[ML - AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
 
 
 ### PT/BR:
 * **[NLP - Avaliando Similaridade de textos com CountVectorizer
  e Numpy](https://github.com/BraulioHermanson/Others_Projectss/blob/main/NLP-CountVectorizer.ipynb)**
-* **[Exportando dados Publicos do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Exportando%20dados%20publicos.ipynb)**
-* **[Avaliando Carteira de Investimentos](https://github.com/BraulioHermanson/Others_Projectss/blob/main/artigo_carteira.ipynb)**
-* **[Rio de Janeiro - ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
-* **[Deploy Rio de Janeiro- ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Deploy_ML_Rio_aribnb.ipynb)**
-* **[Extraindo PDF com PyPDF2](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Trabalhando%20com%20PDF.ipynb)**
-* **[Extraindo tabelas em PDF com Tabula](https://github.com/BraulioHermanson/Others_Projectss/blob/main/PDF_Tabula.ipynb)**
-* **[Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
-* **[Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
-* **[K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
+* **[ANL - Exportando dados Publicos do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Exportando%20dados%20publicos.ipynb)**
+* **[ANL - Avaliando Carteira de Investimentos](https://github.com/BraulioHermanson/Others_Projectss/blob/main/artigo_carteira.ipynb)**
+* **[ML - Rio de Janeiro precos](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
+* **[ML - Deploy Rio de Janeiro](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Deploy_ML_Rio_aribnb.ipynb)**
+* **[AUT - Extraindo PDF com PyPDF2](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Trabalhando%20com%20PDF.ipynb)**
+* **[AUT - Extraindo tabelas em PDF com Tabula](https://github.com/BraulioHermanson/Others_Projectss/blob/main/PDF_Tabula.ipynb)**
+* **[ANL - Covid Brasil - 11/10/21](https://github.com/BraulioHermanson/Covid-Brasil/blob/main/Project_Covid.ipynb)** 
+* **[ML - Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
+* **[ML - K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
 
+- 🤖 **NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation**
 ----------------------------------------------------------------------------------------------------------------------------
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=BraulioHermanson&show_icons=true)
 
