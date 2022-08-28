@@ -40,6 +40,7 @@
 * **[ML - Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
 * **[ML - K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
 
+----------------------------------------------------------------------------------------------------------------------------
 - 🤖 **NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation**
 ----------------------------------------------------------------------------------------------------------------------------
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=BraulioHermanson&show_icons=true)
