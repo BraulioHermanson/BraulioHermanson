@@ -27,6 +27,7 @@
 * **[Using Python to get insights from twitter](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Using%20Python%20to%20get%20insights%20from%20twitter.ipynb)**
 
 ### PT/BR:
+* **[Exportando dados Publicos do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Exportando%20dados%20publicos.ipynb)**
 * **[Avaliando Carteira de Investimentos](https://github.com/BraulioHermanson/Others_Projectss/blob/main/artigo_carteira.ipynb)**
 * **[Rio de Janeiro - ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Rio_ML.ipynb)**
 * **[Deploy Rio de Janeiro- ML](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Deploy_ML_Rio_aribnb.ipynb)**
