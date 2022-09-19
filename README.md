@@ -29,6 +29,7 @@
 
 
 ### PT/BR:
+* **[AUT - API com Flask](https://github.com/BraulioHermanson/Others_Projectss/blob/main/API.ipynb)**
 * **[NLP - Avaliando Similaridade de textos com CountVectorizer
  e Numpy](https://github.com/BraulioHermanson/Others_Projectss/blob/main/NLP-CountVectorizer.ipynb)**
 * **[ANL - Exportando dados Publicos do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Exportando%20dados%20publicos.ipynb)**
