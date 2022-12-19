@@ -29,6 +29,7 @@
 
 
 ### PT/BR:
+* **[ANL - Deploy Streamlit Vendas](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/streamlit_deploy_vendas.ipynb)**
 * **[ANL - Criando DASHBOARD COM PYTHON](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Dash_python.ipynb)**
 * **[AUT - API com Flask](https://github.com/BraulioHermanson/Others_Projectss/blob/main/API.ipynb)**
 * **[NLP - Avaliando Similaridade de textos com CountVectorizer
