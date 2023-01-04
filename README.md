@@ -30,6 +30,7 @@
 
 ### PT/BR:
 * **[AUT - Buscador de preços online](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Buscador_preco_automatizado.ipynb)**
+* **[AUT - API Banco Central do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/API%20BCBrasil.ipynb)**
 * **[ANL - Deploy Streamlit Vendas](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/streamlit_deploy_vendas.ipynb)**
 * **[ANL - API MOEDAS Bitcoin-Dolar AWEOSMEAPI](https://github.com/BraulioHermanson/Others_Projectss/blob/main/cotacao-awesomeapi.ipynb)**
 * **[ANL - Criando DASHBOARD COM PYTHON](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Dash_python.ipynb)**
