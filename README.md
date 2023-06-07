@@ -26,6 +26,7 @@
 * **[ANL - Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
 * **[ML - Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
 * **[ML - AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
+* **[AUT - Horticultural quote search engine](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Cotac_verdes_beautifulSoup.py)**
 
 
 ### PT/BR:
