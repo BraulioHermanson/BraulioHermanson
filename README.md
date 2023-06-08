@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BraulioHermanson
 - 👀 I’m interested in Data Science, Power BI, ETL tools, BIG DATA and learning new things.
 - 🌱 I'm a Data Science/Data Analyst working with python language.
-- 🤖 **NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation**
+- 🤖 **NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation & GM: Gaming**
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-) ;
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@braucamps)](https://medium.com/@braucamps)
 
@@ -31,6 +31,7 @@
 
 ### PT/BR:
 * **[AUT - Buscador de preços online](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Buscador_preco_automatizado.ipynb)**
+* **[GM - Game Flappybird](https://github.com/BraulioHermanson/Others_Projectss/blob/main/FlappyBird.py)**
 * **[AUT - API Banco Central do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/API%20BCBrasil.ipynb)**
 * **[ANL - Deploy Streamlit Vendas](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/streamlit_deploy_vendas.ipynb)**
 * **[ANL - API MOEDAS Bitcoin-Dolar AWEOSMEAPI](https://github.com/BraulioHermanson/Others_Projectss/blob/main/cotacao-awesomeapi.ipynb)**
