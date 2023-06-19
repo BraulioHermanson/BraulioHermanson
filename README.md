@@ -30,6 +30,7 @@
 
 
 ### PT/BR:
+* **[AUT - Janela Cotacoes TKINTER](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Projeto_tk.py)**
 * **[AUT - Buscador de preços online](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Buscador_preco_automatizado.ipynb)**
 * **[GM - Game Flappybird](https://github.com/BraulioHermanson/Others_Projectss/blob/main/FlappyBird.py)**
 * **[AUT - API Banco Central do Brasil](https://github.com/BraulioHermanson/Others_Projectss/blob/main/API%20BCBrasil.ipynb)**
