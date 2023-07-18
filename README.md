@@ -27,6 +27,8 @@
 * **[ML - Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
 * **[ML - AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
 * **[AUT - Horticultural quote search engine](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Cotac_verdes_beautifulSoup.py)**
+* **[AUT - Image Editor](https://github.com/BraulioHermanson/Others_Projectss/blob/main/image_editor.py)**
+* **[AUT - YouTube Video Downloader](https://github.com/BraulioHermanson/Others_Projectss/blob/main/youtube_downloader.py)**
 
 
 ### PT/BR:
