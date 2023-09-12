@@ -31,6 +31,7 @@
 * **[AUT - Image Editor](https://github.com/BraulioHermanson/Others_Projectss/blob/main/image_editor.py)**
 * **[AUT - YouTube Video Downloader](https://github.com/BraulioHermanson/Others_Projectss/blob/main/youtube_downloader.py)**
 * **[GM - ScoreGame](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Gamepg.py)**
+* **[ANL - Password Generator](https://github.com/BraulioHermanson/Others_Projectss/blob/main/gerador_senhas.py)**
 
 
 ### PT/BR:
