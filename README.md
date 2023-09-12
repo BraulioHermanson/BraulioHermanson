@@ -35,6 +35,7 @@
 
 
 ### PT/BR:
+* **[ANL - QR CODE](https://github.com/BraulioHermanson/Others_Projectss/blob/main/qr_code.py)**
 * **[ANL - Analisador de Texto](https://github.com/BraulioHermanson/Others_Projectss/blob/main/analisador_texto.py)**
 * **[AUT - Sistema de Cadastro de Insumos SQL & TKINTER](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Estoque_tk.py)**
 * **[AUT - Janela Cotacoes TKINTER](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Projeto_tk.py)**
