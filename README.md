@@ -35,6 +35,7 @@
 
 
 ### PT/BR:
+* **[ANL - Analise dolar FRED API](https://github.com/BraulioHermanson/BRASIL_API_PYTHON/blob/main/fred_api.ipynb)**
 * **[AUT - Lista de anotações no cmd gerando arquivo JSON](https://github.com/BraulioHermanson/arquivo_py/blob/main/file_app.py)**
 * **[ANL - QR CODE](https://github.com/BraulioHermanson/Others_Projectss/blob/main/qr_code.py)**
 * **[ANL - Analisador de Texto](https://github.com/BraulioHermanson/Others_Projectss/blob/main/analisador_texto.py)**
