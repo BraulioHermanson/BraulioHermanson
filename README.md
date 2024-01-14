@@ -27,7 +27,7 @@
 * **[ANL - Austin's Airbnb analysis](https://github.com/BraulioHermanson/Austin_project/blob/main/1Austin_Project_Aibnb_.ipynb)**
 * **[ML - Credit Card Kaggle](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/credit_card_fraud_detection.ipynb)**
 * **[ML - AUTO ML Pycaret Fetal Health Classification](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Project_Classification_with_PyCaret.ipynb)**
-* **[AUT - Horticultural quote search engine](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Cotac_verdes_beautifulSoup.py)**
+* **[AUT - Horticultural quote search engine BEAUTIFULSOUP](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Cotac_verdes_beautifulSoup.py)**
 * **[AUT - Image Editor](https://github.com/BraulioHermanson/Others_Projectss/blob/main/image_editor.py)**
 * **[AUT - YouTube Video Downloader](https://github.com/BraulioHermanson/Others_Projectss/blob/main/youtube_downloader.py)**
 * **[GM - ScoreGame](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Gamepg.py)**
@@ -35,6 +35,7 @@
 
 
 ### PT/BR:
+* **[AUT - WEB_SCRAP CEPEA + CEPEA HORT - SELENIUM](https://github.com/BraulioHermanson/Others_Projectss/blob/main/cotaca_cepea_e_cepea_hort_2jeitos.ipynb)**
 * **[ANL - Analise dolar FRED API](https://github.com/BraulioHermanson/BRASIL_API_PYTHON/blob/main/fred_api.ipynb)**
 * **[AUT - Lista de anotações no cmd gerando arquivo JSON](https://github.com/BraulioHermanson/arquivo_py/blob/main/file_app.py)**
 * **[ANL - QR CODE](https://github.com/BraulioHermanson/Others_Projectss/blob/main/qr_code.py)**
