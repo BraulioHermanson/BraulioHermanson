@@ -20,6 +20,7 @@
 
 ## Projects:
 ### EN:
+* **[ML - Customer Segmentation Project](https://github.com/BraulioHermanson/Projeto_Segmentacao_de_Clientes)**
 * **[GM - Tetris with Python](https://github.com/BraulioHermanson/Tetris__)**
 * **[NLP - Using Python to get insights from twitter](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Using%20Python%20to%20get%20insights%20from%20twitter.ipynb)**
 * **[AUT - Make your day easy using Pyauotgui to automatize your process during work.](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Automatizando%20tarefas.ipynb)**
