@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BraulioHermanson
 - 👀 I’m interested in Data Science, Power BI, ETL tools, BIG DATA and learning new things.
 - 🌱 I'm a Data Engineer/Data Analyst working with python language.
-- 🤖 **NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation & GM: Gaming**
+- 🤖 **ENG: Data Engineering, NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation & GM: Gaming**
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-) ;
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@braucamps)](https://medium.com/@braucamps)
 
@@ -20,6 +20,7 @@
 
 ## Projects:
 ### EN:
+* **[ENG - Essentials of Data Engineering](https://github.com/BraulioHermanson/Data_Enginnering_FreeCodeCamp-elt)**
 * **[ML - Customer Segmentation Project](https://github.com/BraulioHermanson/Projeto_Segmentacao_de_Clientes)**
 * **[GM - Tetris with Python](https://github.com/BraulioHermanson/Tetris__)**
 * **[NLP - Using Python to get insights from twitter](https://github.com/BraulioHermanson/Others_Projectss/blob/main/Using%20Python%20to%20get%20insights%20from%20twitter.ipynb)**
