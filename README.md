@@ -37,6 +37,7 @@
 
 
 ### PT/BR:
+* **[ENG - CRUD ORM PYTHON](https://github.com/BraulioHermanson/CRUD_JN)**
 * **[ENG - SQL_ALCHEMY_PYTHON](https://github.com/BraulioHermanson/sql_alchemy_jn)**
 * **[AUT - WEB_SCRAP CEPEA + CEPEA HORT - SELENIUM](https://github.com/BraulioHermanson/Others_Projectss/blob/main/cotaca_cepea_e_cepea_hort_2jeitos.ipynb)**
 * **[ANL - Analise dolar FRED API](https://github.com/BraulioHermanson/BRASIL_API_PYTHON/blob/main/fred_api.ipynb)**
