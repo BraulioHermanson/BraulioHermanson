@@ -20,6 +20,7 @@
 
 ## Projects:
 ### EN:
+* **[ENG - Pipeline de Indicadores Econômicos Brasileiros](https://github.com/BraulioHermanson/-Pipeline-de-Indicadores-Econ-micos-Brasileiros)**
 * **[ENG - Data-pipeline-Spark-Iceberg-dbt-Airflow](https://github.com/BraulioHermanson/Data-pipeline-spark-iceberg-dbt-airflow)**
 * **[ENG - DATA WAREHOUSE Python-Postgres-DBT](https://github.com/BraulioHermanson/DW_DBT)**
 * **[ML - Customer Segmentation Project](https://github.com/BraulioHermanson/Projeto_Segmentacao_de_Clientes)**
