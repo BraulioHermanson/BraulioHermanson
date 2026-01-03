@@ -1,20 +1,49 @@
-- 👋 Hi, I’m @BraulioHermanson
-- 👀 I’m interested in Data Engineering, Power BI, ETL tools, BIG DATA and learning new things.
-- 🌱 I'm a Data Engineer/Data Analyst working with python language.
-- 🤖 **ENG: Data Engineering, NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation & GM: Gaming**
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braulio-campos-)](https://www.linkedin.com/in/braulio-campos-) ;
+# Hi there, I'm Bráulio Hermanson! 👋
 
+**Data Engineer | Data Architecture & Analytics**
 
+I am a Data Engineer focused on building scalable, efficient, and reliable data architectures. Currently, I am deepening my expertise in modern Lakehouse environments and exploring the path of Data Auditing.
 
-## 😃🚀💻Technology, languages and tools:
-<img height ="20" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">  <img height ="20" src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
- <img height ="20" src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">  <img height ="20" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-<img height ="20" src = "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">  <img height ="20" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> 
-<img height ="20" src= "https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"> <img height= "20" src= "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"> 
-<img height ="20" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">  <img height ="20" src= "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> 
-<img height ="20" src = "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> <img height ="20" src = "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"> 
-<img height ="20" src = "https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img height ="20" src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-<img height ="20" src = "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+---
+
+### 🛠 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-008080?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [End-to-End Data Pipeline: Spark + Iceberg + dbt + Airflow](https://github.com/BraulioHermanson/Data-pipeline-spark-iceberg-dbt-airflow)
+A modern Lakehouse implementation designed to handle ACID transactions on top of object storage.
+- **Key Features:** Data ingestion with PySpark, table management using Apache Iceberg, and complex transformations with dbt.
+- **Orchestration:** Fully automated via Apache Airflow.
+- **Goal:** Demonstrating how to build a robust, scalable data platform with open-source tools.
+
+#### 2. [Brazilian Economic Indicators Pipeline](https://github.com/BraulioHermanson/-Pipeline-de-Indicadores-Econ-micos-Brasileiros)
+Automated pipeline for collecting and processing key macroeconomic data from Brazil.
+- **Key Features:** Integration with official financial APIs, data cleaning, and structured storage for analytical purposes.
+- **Impact:** Provides a streamlined way to monitor Brazilian economic trends through automated ETL processes.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraulioHermanson&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraulioHermanson&layout=compact&theme=visual_studio_dark)
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-campos-)
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -70,6 +99,6 @@
 * **[ML - Churn](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/Projeto_Churn.ipynb)** 
 * **[ML - K-NN Iris](https://github.com/BraulioHermanson/Machine-Learning-Project/blob/main/K_NN_Iris.ipynb)**
 
-
+- 🤖 **ENG: Data Engineering, NLP: Natural Language Processing, ANL: Analytics, ML: Machine Learning, AUT: Automation & GM: Gaming**
 ----------------------------------------------------------------------------------------------------------------------------
 
