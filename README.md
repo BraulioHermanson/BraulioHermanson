@@ -33,14 +33,6 @@ Automated pipeline for collecting and processing key macroeconomic data from Bra
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraulioHermanson&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraulioHermanson&layout=compact&theme=visual_studio_dark)
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braulio-campos-)
 
